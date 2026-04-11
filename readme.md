@@ -1,15 +1,15 @@
 <div align="center">
 		<img src="https://img.shields.io/pypi/v/CaesarCipher.extended?color=blue" alt="PyPI version" />
-		<img src="https://img.shields.io/github/license/ViratiAkiraNandhanReddy/CaesarCipher.extended" alt="License" />
+		<img src="https://img.shields.io/github/license/ViratiAkiraNandhanReddy/CaesarCipher.extended-python.pypi" alt="License" />
 		<!-- <img src="https://img.shields.io/github/actions/workflow/status/ViratiAkiraNandhanReddy/CaesarCipher.extended/python-app.yml?label=build" alt="Build Status" /> -->
-		<img src="https://img.shields.io/github/actions/workflow/status/ViratiAkiraNandhanReddy/CaesarCipher.extended/tests.yml?label=tests" alt="Test Status" />
+		<img src="https://img.shields.io/github/actions/workflow/status/ViratiAkiraNandhanReddy/CaesarCipher.extended-python.pypi/tests.yml?label=tests" alt="Test Status" />
 	    <img src="https://static.pepy.tech/personalized-badge/caesarcipher-extended?period=total&units=INTERNATIONAL_SYSTEM&left_color=LIGHTGREY&right_color=GREEN&left_text=Total%20Downloads" alt="Total Downloads" />
 		<img src="https://img.shields.io/pypi/dm/CaesarCipher.extended" alt="PyPI Downloads" />
 	    <img src="https://api.visitorbadge.io/api/visitors?path=ViratiAkiraNandhanReddy/CaesarCipher.extended&label=Repository%20Visits&style=flat" alt="Repository Visits" />
 		<!-- <img src="https://img.shields.io/github/last-commit/ViratiAkiraNandhanReddy/CaesarCipher.extended" alt="Last Commit" /> -->
-		<img src="https://img.shields.io/github/issues/ViratiAkiraNandhanReddy/CaesarCipher.extended" alt="Issues" />
+		<img src="https://img.shields.io/github/issues/ViratiAkiraNandhanReddy/CaesarCipher.extended-python.pypi" alt="Issues" />
 		<a href="https://github.com/ViratiAkiraNandhanReddy/awful"><img src="https://img.shields.io/badge/awful-Passively%20Maintained-2F855A?style=flat&logo=github&logoColor=white" alt="AWFUL - Passively Maintained"/></a>
-		<img src="https://img.shields.io/github/stars/ViratiAkiraNandhanReddy/CaesarCipher.extended?style=social" alt="Stars" />
+		<img src="https://img.shields.io/github/stars/ViratiAkiraNandhanReddy/CaesarCipher.extended-python.pypi?style=social" alt="Stars" />
 	<h1><a href="https://pypi.org/project/CaesarCipher.extended/">CaesarCipher.extended</a></h1>
 	<p><em>Simple, creative, and practical Caesar cipher encryption for Python projects.</em></p>
 </div>
