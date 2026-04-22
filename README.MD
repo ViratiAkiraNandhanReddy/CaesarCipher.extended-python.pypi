@@ -216,8 +216,6 @@ You can customize the shift and choose to include digits and symbols for even mo
 
 ### Developed by [ViratiAkiraNandhanReddy](https://github.com/ViratiAkiraNandhanReddy)
 
-> 💤 - PASSIVE MAINTENANCE : Mean the project is no longer actively developed ***( NO New Features And Regular Updates )***, but the maintainer will respond only when an issue or PR is raised. Feel free to fork and continue development!
-
 ---
 
 <h3 align="center"> Questions, suggestions, or want to contribute? Open an issue or pull request on GitHub! </h3>
