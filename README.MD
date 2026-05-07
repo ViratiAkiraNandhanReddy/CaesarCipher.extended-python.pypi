@@ -8,7 +8,6 @@
 	    <img src="https://api.visitorbadge.io/api/visitors?path=ViratiAkiraNandhanReddy/CaesarCipher.extended&label=Repository%20Visits&style=flat" alt="Repository Visits" />
 		<!-- <img src="https://img.shields.io/github/last-commit/ViratiAkiraNandhanReddy/CaesarCipher.extended" alt="Last Commit" /> -->
 		<img src="https://img.shields.io/github/issues/ViratiAkiraNandhanReddy/CaesarCipher.extended-python.pypi" alt="Issues" />
-		<a href="https://github.com/ViratiAkiraNandhanReddy/awful"><img src="https://img.shields.io/badge/awful-Passively%20Maintained-2F855A?style=flat&logo=github&logoColor=white" alt="AWFUL - Passively Maintained"/></a>
 		<img src="https://img.shields.io/github/stars/ViratiAkiraNandhanReddy/CaesarCipher.extended-python.pypi?style=social" alt="Stars" />
 	<h1><a href="https://pypi.org/project/CaesarCipher.extended/">CaesarCipher.extended</a></h1>
 	<p><em>Simple, creative, and practical Caesar cipher encryption for Python projects.</em></p>
