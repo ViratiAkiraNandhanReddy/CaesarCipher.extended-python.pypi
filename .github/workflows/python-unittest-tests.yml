@@ -1,0 +1,31 @@
+name: python-unittest-tests
+
+on:
+
+  push:
+    paths:
+      - "**/*.py"
+      
+  pull_request:
+    paths:
+      - "**/*.py"
+
+  workflow_dispatch:
+
+jobs:
+  test:
+
+    runs-on: ubuntu-latest
+    steps:
+      
+      - name: Setup Python
+        uses: actions/setup-python@v6.2.0
+        with:
+          python-version: '3.14'
+
+      - name: Checkout Repository
+        uses: actions/checkout@v6.0.2
+
+      - name: Run tests
+        run: |
+          python -m unittest discover -s tests
