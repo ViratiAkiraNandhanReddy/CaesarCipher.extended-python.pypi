@@ -207,7 +207,7 @@ You can customize the shift and choose to include digits and symbols for even mo
 
 ## 📝 License
 
-<p align="center"><kbd>&copy; 2025 <a href="https://github.com/ViratiAkiraNandhanReddy">ViratiAkiraNandhanReddy</a>. This project is licensed under the <i> GNU GENERAL PUBLIC LICENSE </i>.</kbd></p>
+<p align="center"><kbd>&copy; 2025 <a href="https://github.com/ViratiAkiraNandhanReddy">ViratiAkiraNandhanReddy</a>. This project is licensed under the <i> MIT License </i>.</kbd></p>
 
 ---
 
