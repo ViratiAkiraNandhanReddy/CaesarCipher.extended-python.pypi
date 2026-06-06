@@ -2,7 +2,7 @@
 		<img src="https://img.shields.io/pypi/v/CaesarCipher.extended?color=blue" alt="PyPI version" />
 		<img src="https://img.shields.io/github/license/ViratiAkiraNandhanReddy/CaesarCipher.extended-python.pypi" alt="License" />
 		<!-- <img src="https://img.shields.io/github/actions/workflow/status/ViratiAkiraNandhanReddy/CaesarCipher.extended/python-app.yml?label=build" alt="Build Status" /> -->
-		<img src="https://img.shields.io/github/actions/workflow/status/ViratiAkiraNandhanReddy/CaesarCipher.extended-python.pypi/tests.yml?label=tests" alt="Test Status" />
+		<img src="https://img.shields.io/github/actions/workflow/status/ViratiAkiraNandhanReddy/CaesarCipher.extended-python.pypi/python-unittest-tests.yml?label=tests" alt="Test Status" />
 	    <img src="https://static.pepy.tech/personalized-badge/caesarcipher-extended?period=total&units=INTERNATIONAL_SYSTEM&left_color=LIGHTGREY&right_color=GREEN&left_text=Total%20Downloads" alt="Total Downloads" />
 		<img src="https://img.shields.io/pypi/dm/CaesarCipher.extended" alt="PyPI Downloads" />
 	    <img src="https://api.visitorbadge.io/api/visitors?path=ViratiAkiraNandhanReddy/CaesarCipher.extended&label=Repository%20Visits&style=flat" alt="Repository Visits" />
