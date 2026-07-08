@@ -39,7 +39,7 @@ This approach provides basic obfuscation and is suitable for educational, demons
 Install from PyPI:
 
 ```bash
-pip install CaesarCipher
+pip install CaesarCipher.extended
 ```
 
 Or clone from GitHub:
