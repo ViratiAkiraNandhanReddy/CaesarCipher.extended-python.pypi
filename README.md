@@ -1,15 +1,99 @@
+# Project Deprecated - Migration Notice
+
+The original `CaesarCipher.extended` Python package has been **deprecated and moved** to a new, better-organized project:
+
+**New Hero Repository:**
+https://github.com/ViratiAkiraNandhanReddy/caesarcipher-extended
+
+**Python Package Repository:**
+https://github.com/ViratiAkiraNandhanReddy/caesarcipher-extended-py
+
+This change was made to provide a cleaner, more maintainable package structure with many new features, improved organization, better development practices, and a stronger foundation for future updates.
+
+## Important Naming Change
+
+Please do not be confused by the package name change.
+
+The previous package was:
+
+```
+CaesarCipher.extended
+```
+
+The new package name is:
+
+```
+caesarcipher-extended
+```
+
+This naming change was intentional to maintain better consistency with PyPI package naming conventions and improve discoverability.
+
+## PyPI Name Normalization Notice
+
+Please note that installing using the old package name may still resolve to the new package because **PyPI normalizes package names**.
+
+For example, names such as:
+
+```bash
+CaesarCipher.extended
+caesarcipher-extended
+caesarcipher_extended
+```
+
+are treated as equivalent by PyPI package name normalization rules.
+
+Because of this, attempting to install the old package name from PyPI may install the newer `caesarcipher-extended` package instead.
+
+This behavior is expected and helps maintain compatibility while transitioning to the new package naming convention.
+
+## Apology to Existing Users
+
+A heartfelt apology to everyone who depended on the original package.
+
+The previous release was deleted without a proper migration notice, and we understand that this may have affected existing projects, dependency files, or application structures that relied on this library.
+
+We sincerely apologize for the inconvenience caused.
+
+## Temporary Installation of the Old Version
+
+If you still need the old implementation temporarily while migrating, you can install it directly from GitHub:
+
+```bash
+pip install git+https://github.com/ViratiAkiraNandhanReddy/CaesarCipher.extended-python.pypi
+```
+
+For `requirements.txt`, use:
+
+```txt
+git+https://github.com/ViratiAkiraNandhanReddy/CaesarCipher.extended-python.pypi
+```
+
+This should provide enough time to migrate your project to the newer implementation.
+
+## Recommended Migration
+
+We strongly recommend moving to the new package:
+
+* Better organized codebase
+* Improved package structure
+* More features
+* Regular maintenance and updates
+* Future security patches
+* Improved developer experience
+* Long-term support
+
+The new implementation is actively maintained and will be the primary version going forward.
+
+Thank you for your understanding, support, and patience during this transition. ❤️
+
+---
+
+<img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/12c44bd6-f3d1-45b0-97a6-fdd24ed8062e.gif" width="100%">
 <div align="center">
 		<img src="https://img.shields.io/pypi/v/CaesarCipher.extended?color=blue" alt="PyPI version" />
 		<img src="https://img.shields.io/github/license/ViratiAkiraNandhanReddy/CaesarCipher.extended-python.pypi" alt="License" />
-		<!-- <img src="https://img.shields.io/github/actions/workflow/status/ViratiAkiraNandhanReddy/CaesarCipher.extended/python-app.yml?label=build" alt="Build Status" /> -->
-		<img src="https://img.shields.io/github/actions/workflow/status/ViratiAkiraNandhanReddy/CaesarCipher.extended-python.pypi/tests.yml?label=tests" alt="Test Status" />
-	    <img src="https://static.pepy.tech/personalized-badge/caesarcipher-extended?period=total&units=INTERNATIONAL_SYSTEM&left_color=LIGHTGREY&right_color=GREEN&left_text=Total%20Downloads" alt="Total Downloads" />
-		<img src="https://img.shields.io/pypi/dm/CaesarCipher.extended" alt="PyPI Downloads" />
-	    <img src="https://api.visitorbadge.io/api/visitors?path=ViratiAkiraNandhanReddy/CaesarCipher.extended&label=Repository%20Visits&style=flat" alt="Repository Visits" />
-		<!-- <img src="https://img.shields.io/github/last-commit/ViratiAkiraNandhanReddy/CaesarCipher.extended" alt="Last Commit" /> -->
-		<img src="https://img.shields.io/github/issues/ViratiAkiraNandhanReddy/CaesarCipher.extended-python.pypi" alt="Issues" />
-		<img src="https://img.shields.io/github/stars/ViratiAkiraNandhanReddy/CaesarCipher.extended-python.pypi?style=social" alt="Stars" />
-	<h1><a href="https://pypi.org/project/CaesarCipher.extended/">CaesarCipher.extended</a></h1>
+	    <img src="https://api.visitorbadge.io/api/visitors?path=ViratiAkiraNandhanReddy/caesarcipher-extended&label=Repository%20Visits&style=flat" alt="Repository Visits" />
+	<h1><a href="https://pypi.org/project/caesarcipher-extended/">CaesarCipher.extended</a></h1>
 	<p><em>Simple, creative, and practical Caesar cipher encryption for Python projects.</em></p>
 </div>
 
