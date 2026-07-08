@@ -2,6 +2,12 @@
 requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
+[tool.setuptools.package-data]
+caesarcipher_extended = ["py.typed"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
 [project]
 name = "CaesarCipher.extended"
 version = "2.9.1"
